@@ -2,6 +2,7 @@ Line1
 Line2
 Line3
 
+<<<<<<< Updated upstream
 
 
 
@@ -14,3 +15,8 @@ Line3
 
 Saurabh
 Shinde
+=======
+Line4
+Line5
+Line6
+>>>>>>> Stashed changes
